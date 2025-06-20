@@ -1,0 +1,6 @@
+[package]
+name = "secp256k_zk_verifier"
+type = "bin"
+authors = [""]
+
+[dependencies]
